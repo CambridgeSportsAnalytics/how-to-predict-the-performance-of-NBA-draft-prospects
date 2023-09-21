@@ -1,4 +1,7 @@
 # How to Predict the Performance of NBA Draft Prospects
+> Megan Czasonis, Mark Kritzman, Cel Kulasekaran, David Turkington <br/>
+MIT Sloan Research Paper No. 6955-23 <br/>
+Date Written: September 8, 2023
 
 
 # Abstract
@@ -24,4 +27,4 @@ The foundational concepts used in our approach is described in the following boo
 
 - **Website** <br/>
 There is a companion website for the book that includes references to other resources: <br/>
-[Prediction Revisited.com](https://www.predictionrevisited.com/)
+[www.predictionrevisited.com](https://www.predictionrevisited.com/)
